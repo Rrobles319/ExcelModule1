@@ -19,12 +19,13 @@ By Filtering and Visualizing Kickstarter Data, we were able to help Louise selec
 Working with larger data sets require precision in filtering, formatting and visualization of data. Inattention to detail may result in data being deleted, error symbols, undesired values
 
 ## Results
-
 -**What are two conclusions you can draw about the Outcomes based on Launch Date?**
+The first conclusion based on Launch Date data indicates May as the most successful month to launch a theatre campaign. Next, failed campaigns are consistent from May-August. Overall there is an increase in total campaign attempts during the summer season. 
 
--**What can you conclude about the Outcomes based on Goals?
+-**What can you conclude about the Outcomes based on Goals?** The theatre campaigns have had the most successful outcomes between the $1000-$4000 range.
 
-- What are some limitations of this dataset?
+-**What are some limitations of this dataset?**
 
-- What are some other possible tables and/or graphs that we could create?
-**
+-**What are some other possible tables and/or graphs that we could create?**
+A bar graph for Theatre Outcomes by Launch Date sheet would also be telling. Something visualizing outcomes vs campaign duration would also be helpful. Campaign duration vs Percenatge Pledged would be interesting also.
+
